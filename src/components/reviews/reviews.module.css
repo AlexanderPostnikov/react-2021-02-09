@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.list__item {
+  padding-bottom: 5px;
+}
+.username {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.userComment {
+  font-size: 16px;
+}
